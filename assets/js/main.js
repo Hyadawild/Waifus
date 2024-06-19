@@ -39,7 +39,7 @@ let homeSwiper = new Swiper(".home-swiper", {
     prevEl: ".swiper-button-prev",
   },
   autoplay: {
-    delay: 5000, // Set transition interval to 3 seconds
+    delay: 3000, // Set transition interval to 3 seconds
     disableOnInteraction: false, // Allow manual interaction
   },
 })
